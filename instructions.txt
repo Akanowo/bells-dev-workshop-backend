@@ -1,0 +1,9 @@
+## This will show you how to install and configure the backend
+
+### First install Nodejs on your system
+
+### Open your terminal and navigate to the project directory
+
+### run npm install
+
+### run npm run dev or npm start to start the backend server
